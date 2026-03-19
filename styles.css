@@ -152,7 +152,7 @@ body {
 .banana-body {
   height: 40%;
   width: 0px;
-  top: 300px;
+  top: 500px;
   left: 150px;
   border-right: 180px solid #ecec13;    /* yellow */
   border-radius: 0 150px 150px 0%;
